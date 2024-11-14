@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: "Mulish", sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    justify-item: center;
+    /* height: 41px; */
+    flex-wrap: wrap;
+    background-color: white;
+    padding-bottom: 70px;
+    border: 1px solid;
+}
+
+.logo {
+    width: 160px;
+    height: 41px;
+    margin-top: 56px;
+    margin-left: 191px;
+}
+
+nav {
+    height: 23px;
+    width: 545px;
+    margin-top: 70px;
+    /* margin-left: 863px; */
+}
+
+nav > a {
+    color: #1f1534;
+    padding: 10px;
+}
