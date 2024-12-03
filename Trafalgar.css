@@ -272,7 +272,7 @@ main > .hero > .hero-left > button {
     justify-content: space-between;
     margin-right: 15px;
     /* gap: 10px; */
-    width: 650px;/
+    width: 650px;
     height: 477px;
     /* margin-right: 150px; */
 }
@@ -597,7 +597,6 @@ margin-top: 50px;
 
 .footer-left p {
     margin-top: 20px;
-zz
 }
 
 .copyright {
